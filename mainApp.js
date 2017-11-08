@@ -1,4 +1,4 @@
-var Basic = require("./Basic");
+var Basic = require("./BasicCard");
 var Cloze = require("./ClozeCard");
 var inquirer = require("inquirer");
 var fs = require("fs");
